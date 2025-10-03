@@ -1,2 +1,2 @@
 # CompE
-computação letronica
+Computação Eletrônica
