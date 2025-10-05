@@ -1,2 +1,0 @@
-# CompE
-Computação Eletrônica
